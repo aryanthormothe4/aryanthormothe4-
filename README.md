@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated typing intro -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Hey+👋,+I'm+Yuvraj+Pal;Future+Developer+🚀;Learning+JavaScript+%26+C%2B%2B;Building+Cool+Projects+💻;Leveling+Up+Everyday+📈"
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Hey+👋,+I'm+Aryan+;Future+Developer+🚀;Learning+JavaScript+C%2B%2B;Building+Cool+Projects+💻;Leveling+Up+Everyday+📈"
    alt="Typing Animation"
     />
 
@@ -15,13 +15,13 @@
 
 ## About Me 🔥
 
-Hey, I'm Yuvraj Pal 👋  
-Future dev in progress... loading ⏳  
+Hey, I'm Aryan 👋  
+Future developer in progress... loading ⏳  
 
-- 💻 Code. Debug. Repeat.  
-- 🚀 Learning JS & C++ side by side  
-- 🎯 Focused on leveling up my skills daily  
-- 🌍 Dreaming big, building bigger  
+💻 Computer Science Engineering student passionate about coding and problem-solving.<br>
+🌱 Learning Java, DSA, DBMS, and Web Development.<br>
+🔥 Building a strong programming foundation through C, C++, and Python, with a focus on logic and practical projects.<br>
+🚀 Building projects, exploring new technologies, and growing every day.
 
 Not perfect, just improving everyday 💯  
 <h3 align="left">Languages and Tools:</h3>
