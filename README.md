@@ -58,7 +58,7 @@ Not perfect, just improving everyday 💯
 
 ## 🎯 Current Focus
 
-- 🚀 Grinding JavaScript & C++ daily  
+- 🚀 Grinding C++ and Java daily  
 - 🧠 Mastering DSA step by step  
 - 💻 Building real-world projects  
 - 🌐 Exploring Web Development  
@@ -68,19 +68,22 @@ Not perfect, just improving everyday 💯
 
 <div align="center">
 
-<a href="https://www.instagram.com/yuvraj_pal_18/?hl=en" target="_blank">
+<a href="https://www.instagram.com/_btw__aryan_?igsh=MXBuMG5kZzhscWs1eQ==" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="45" />
 </a>
 
-<a href="mailto:palyuvraj60@gmail.com" target="_blank">
+<a href="mailto:aryanthormothe4@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
 
-<a href="https://www.linkedin.com/in/yuvraj-pal-b81661398/" target="_blank">
+<a href="www.linkedin.com/in/
+aryan-thormothe-7485a9201
+Vanity URL name
+" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
-<a href="https://github.com/YUVRAJ-PAL-2007l" target="_blank">
+<a href="https://github.com/aryanthormothe4" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
 
