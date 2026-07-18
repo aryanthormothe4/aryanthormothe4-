@@ -70,7 +70,7 @@ Not perfect, just improving everyday 💯
 
 <a href="https://www.instagram.com/_btw__aryan_?igsh=MXBuMG5kZzhscWs1eQ==" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="45" />
-</a>
+</a><br>
 
 <a href="mailto:aryanthormothe4@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" height="45" />
