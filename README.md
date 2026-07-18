@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi! I am Aryan :
 💻 Computer Science Engineering student passionate about coding and problem-solving.<br>🔥 Building a strong programming foundation through C, C++, and Python, with a focus on logic and practical projects.<br>🌱 Learning Java, DSA, DBMS, and Web Development.<br>🚀 Building projects, exploring new technologies, and growing every day.
 
 
